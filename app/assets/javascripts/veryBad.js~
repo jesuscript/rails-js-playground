@@ -1,7 +1,0 @@
-$ = jQuery;
-
-TheMostUsefulPlugin = function(el,opt){
-  //click_count
-  //extend options
-  //call move and recolour
-}
